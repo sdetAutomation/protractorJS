@@ -22,7 +22,7 @@ Project Packages
 Contains class files for each web page being tested.  Page element definitions / mappings, and functions for interacting with page elements.
 
 * testHelper:
-    - expectHelper: contains functions for using expect function.
+- expectHelper: Contains helper for using expect function.
 
 
 Project start-up
