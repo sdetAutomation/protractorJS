@@ -8,7 +8,7 @@
 ```
 
 # protractorJS
-Startup Project for Protractor
+Startup Project for testing Angular UI using Protractor
 
 
 Introduction
